@@ -1,15 +1,15 @@
 ![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)
-<h1 align="center">Hi 👋, I'm Aman Vishwakarna</h1>
-<h3 align="center">A passionate programmer from India</h3>
+<h1 align="center">Hii, I'm Aman Vishwakarma</h1>
+<h3 align="center">A passionate programmer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 - 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **Java, DSA, Spring Boot, React, and Git/GitHub**
+ **Java, DSA, Spring Boot, React, and Git/GitHub**
 
-- 📫 How to reach me **amanjangid1500@gmail.com**
+Reach me @ **amanjangid1500@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/amanvishwakarmaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amanvishwakarmaa" height="30" width="40" /></a>
 <a href="https://instagram.com/explicit.aman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="explicit.aman" height="30" width="40" /></a>
