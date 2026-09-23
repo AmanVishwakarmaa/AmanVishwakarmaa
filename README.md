@@ -1,9 +1,8 @@
 ![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)
 <h1 align="center">Hii, I'm Aman Vishwakarma</h1>
-<h3 align="center">A passionate programmer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
-- 🌱 I’m currently learning **Spring Boot**
+
 
  **Java, DSA, Spring Boot, React, and Git/GitHub**
 
