@@ -1,9 +1,9 @@
 ![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)
 <h1 align="center">Hii, I'm Aman Vishwakarma</h1>
-Reach me @ **amanjangid1500@gmail.com**
+Reach me @amanjangid1500@gmail.com
 <p align="left">
 <a href="https://linkedin.com/in/amanvishwakarmaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amanvishwakarmaa" height="30" width="40" /></a>
-<a href="https://instagram.com/explicit.aman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="explicit.aman" height="30" width="40" /></a>
+<a href="https://instagram.com/amann.vishwakarma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="explicit.aman" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
