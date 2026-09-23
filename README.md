@@ -3,9 +3,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
-
- **Java, DSA, Spring Boot, React, and Git/GitHub**
-
 Reach me @ **amanjangid1500@gmail.com**
 
 <h2 align="left">Connect with me:</h2>
